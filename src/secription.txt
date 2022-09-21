@@ -1,0 +1,28 @@
+Are you wondering how to become a React developer? Look no further, and get all the info in one video.
+The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/javascriptmastery03221
+
+After building this simple, half an hour-long movie application, imagine what a long and comprehensive 8-hour one would look like! Check it out now - https://www.jsmastery.pro/ultimate-re... 🔥
+
+📚 Materials/References:
+Ultimate React Roadmap - https://resource.jsmasterypro.com/rea...
+JS Mastery PRO - https://resource.jsmasterypro.com/pro
+Movie App Code - https://gist.github.com/adrianhajdin/...
+2022 Web Dev Roadmap - https://youtu.be/xORdz1Hi9Gc
+JavaScript Course: https://www.completepathtojavascriptm...
+Use the special promo code "YOUTUBE" on checkout to save $60!
+
+Learning JavaScript libraries and frameworks can be overwhelming. There are many libraries to choose from, and no proper step-by-step guides that’ll teach you how to use these libraries to their fullest potential. That’s why, in this video, you’ll learn the most popular JavaScript library, used by hundreds of thousands of developers worldwide - React.js.
+
+If you want to learn everything from the essential JSX syntax all the way to more advanced React topics, like state, hooks, data fetching, and more, you’ve come to the right place. Most importantly, I’ll teach you how to build a React.js application so that you can actively internalize and independently apply everything you’ve learned in this beginner-friendly React Crash Course video. 
+
+❤️ Support JavaScript Mastery & Suggest Future Videos:
+BuyMeACoffe: https://www.buymeacoffee.com/JSMastery
+Patreon: https://www.patreon.com/javascriptmas...
+
+🌎 Find Me Here:
+Discord Group: https://discord.gg/n6EdbFJ
+Instagram: https://instagram.com/javascriptmastery
+Twitter: https://twitter.com/jsmasterypro
+
+💼 Business Inquiries:
+E-mail: contact@jsmasterypro.com
